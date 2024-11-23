@@ -1,0 +1,584 @@
+.bt{
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    text-align: center;
+    min-height: 90vh;
+}
+.list{
+    display: inline-flex;
+    text-decoration: none;
+    line-height: 10px;
+    background-color: rgb(103, 103, 103);
+    list-style: none;
+    padding-left: 400px;
+    padding-right: 400px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    box-shadow: 5px 7px 5px white;
+}
+
+.s4s{
+    text-decoration: none;
+    margin: 5px;
+    color: black;
+    font-family: arial;
+    font-size: x-large;
+}
+h1{
+    color: white;
+    margin: 25px;
+    font-family: arial;
+    font-style: oblique;
+}
+.YOUT{
+    
+    background-color: rgb(255, 0, 0);
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 8PX;
+    padding-bottom: 8px;
+    border-radius: 15px;
+    color: white;
+    font-family: ARIAL;
+    margin-bottom: 10px;
+    border-color: red;
+    border-style: solid;
+}
+.YOUT:hover{
+    opacity: 0.8;
+    box-shadow: 3px 3px 10px rgb(88, 88, 88);
+}
+.YOUT:active{
+    opacity: 0.5;
+    box-shadow: 3px 3px 10px rgb(88, 88, 88);
+    background-color: transparent;
+    color: red;
+}
+.DIS{
+    background-color: #5865f2;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 8PX;
+    margin-bottom: 10px;
+    padding-bottom: 8px;
+    border-radius: 15px;
+    color: black;
+    border-color: #5865f2;
+    border-style: solid;
+    font-family: ARIAL;
+}
+.DIS:hover{
+    opacity: 0.8;
+    box-shadow: 3px 3px 10px rgb(88, 88, 88);
+}
+.DIS:active{
+    opacity: 0.5;
+    box-shadow: 3px 3px 10px rgb(88, 88, 88);
+    background-color: transparent;
+    color: #5865f2;
+    border-color: #5865f2;
+    border-style: solid;
+}
+.TW{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    padding-left: 180px;
+    padding-right: 180px;
+    padding-top: 8PX;
+    padding-bottom: 8px;
+    margin-bottom: 10px;
+    border-radius: 15px;
+    border-color: white;
+    
+}
+.TW:hover{
+    opacity: 0.8;
+    box-shadow: 3PX 3px 10PX rgb(88, 88, 88);
+}
+.TW:active{
+    opacity: 0.5;
+    box-shadow: 3px 3px 10px rgb(88, 88, 88);
+    color: black;
+    background-color: rgb(255, 255, 255);
+    
+}
+
+.img{
+    width: 200px;
+    border-radius: 100%;
+}
+.user{
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.SEIF{
+    color: white;
+}
